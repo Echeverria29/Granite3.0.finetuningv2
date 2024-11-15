@@ -1,1 +1,1 @@
-# Granite3.0.finetuningv2
+# Granite8bOllama
